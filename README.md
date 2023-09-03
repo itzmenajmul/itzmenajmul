@@ -128,6 +128,15 @@
     />
   </a>
 </p>
+<h1 align="center"></h1>
+<p align="left">
+  <img 
+     height="200"
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=itzmenajmul&show_icons=true&locale=en&layout=compact" 
+    alt="itzmenajmul" 
+    />
+</p>
 
 <!--
 <p align="left">
