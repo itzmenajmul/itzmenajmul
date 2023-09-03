@@ -2,9 +2,16 @@
 <h3 align="center">
   A passionate frontend developer from Bangladesh
 </h3>
-<img align="right" alt="Coding" width="400" src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/Welsh-Corgi/phpGP6bAI.gif">
+<img
+  align="right" 
+  alt="Coding" width="400" 
+  src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/Welsh-Corgi/phpGP6bAI.gif"
+>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=itzmenajmul&label=Profile%20views&color=0e75b6&style=flat" alt="itzmenajmul" /> 
+  <img 
+    src="https://komarev.com/ghpvc/?username=itzmenajmul&label=Profile%20views&color=0e75b6&style=flat" 
+    alt="itzmenajmul" 
+  /> 
 </p>
 
 <p align="left"> 
@@ -21,8 +28,8 @@
 <h1 align="center"></h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="" target="blank"
-    ><img
+  <a href="past link" target="blank">
+    <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt=""
